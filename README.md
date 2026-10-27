@@ -1,46 +1,32 @@
-<h1 align="center">Hi 👋, I'm Qasim Jethwa</h1>
-<h3 align="center">AI/ML Builder · Founder @ Kemono.in · Electrical & Software Lead, Team Mushak (NASA HERC 2026)</h3>
+![hero](assets/hero.svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CS+(AI+%26+ML)+%40+ATLAS+SkillTech+University;Building+one+AI+project+a+day+on+GitHub;Founder+building+Kemono.in+solo+since+Dec+2023;Rover+electronics+%2B+sensors+for+NASA+HERC+2026;Open+to+AI%2FML+internships+%E2%80%94+India+or+remote" alt="Typing SVG" />
-</p>
+![about](assets/about-life.svg)
 
-# 💫 About Me:
-🔭 I'm currently working on building one AI project a day on GitHub · Founder @ Kemono.in · Electrical & Software Lead, Team Mushak (NASA HERC 2026)<br>👯 I'm looking to collaborate on AI/ML, robotics and data science projects<br>🤝 I'm looking for AI/ML internships at well-known/international companies and AI product teams (India or remote)<br>🌱 I'm currently learning Advanced Machine Learning, NLP, Generative AI and Predictive Modelling<br>💬 Ask me about Python, Machine Learning, Power BI, Arduino, ESP32 & sensor integration<br>⚡ Fun fact: I gave my AI assistant full access to my GitHub — it now builds a project a day with me.
+![stack](assets/stack.svg)
 
+![id](assets/id-dashboard.svg)
 
-## 🚀 Featured Projects:
-- **[Recovery Copilot](https://github.com/qasimjethwa/Failed-payment-recovery)** — Rule-based failed-payment recovery engine: classifies failed transactions, maps each to a retry strategy & channel, every decision explainable (Razorpay AI Buildathon 2026)
-- **[Multi-Agent AI Code Reviewer](https://github.com/qasimjethwa/Multi-Agent-AI-Code-Reviewer)** — Multiple AI agents reviewing code together
-- **[SpamShield](https://github.com/qasimjethwa/spamshield)** — Explainable SMS spam classifier (Naive Bayes, calibrated) that runs fully in the browser
-- **Monte Carlo Greeks via Algorithmic Differentiation** — Interactive explainer computing Monte Carlo sensitivities with JAX autodiff instead of finite differences
+![achievements](assets/achievements.svg)
 
-## 🎓 Education & Certifications:
-- 🎓 **B.Tech, Computer Science (AI & ML)** — ATLAS SkillTech University, Mumbai (2025–2029)
-- 🏅 **Oracle Cloud Infrastructure AI Foundations** — Oracle Certified (2025)
-- 🚁 **Advanced Drone Technology** — Bharat Space Education & Research Centre (2025)
-- 🌍 **Team Lead – Data Analyst (Virtual Internship)** — New Zealand Cricket, Power BI dashboard, leading a 6-member team
+## `SYSTEM METRICS`
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qasimjethwa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qasimjethwa9783@gmail.com) [![Website](https://img.shields.io/badge/Kemono.in-%23000000.svg?logo=shopify&logoColor=white)](https://kemono.in) 
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=qasimjethwa&theme=github-compact&hide_border=true&area=true&bg_color=0A0A0A&color=b4b4bd&line=10b981&point=ffffff&radius=16)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=qasimjethwa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=qasimjethwa&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=qasimjethwa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=qasimjethwa&show_icons=true&hide_border=true&border_radius=16&bg_color=0A0A0A&title_color=ffffff&icon_color=10b981&text_color=b4b4bd&count_private=true&include_all_commits=true) ![streak](https://github-readme-streak-stats.herokuapp.com/?user=qasimjethwa&hide_border=true&border_radius=16&background=0A0A0A&stroke=27272a&ring=10b981&fire=10b981&currStreakLabel=ffffff&sideLabels=b4b4bd&currStreakNum=ffffff&sideNums=ffffff&dates=b4b4bd)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=qasimjethwa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimjethwa&layout=compact&hide_border=true&border_radius=16&bg_color=0A0A0A&title_color=ffffff&text_color=b4b4bd&hide=html,css&langs_count=10)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## `SELECTED WORK`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=qasimjethwa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Mumbai Flow](https://github.com/qasimjethwa/Traffic-management)** ⭐ | AI traffic management for Mumbai — real OSRM road data, FastAPI + PostGIS backend, provenance-labelled Data view. [Live](https://qasimjethwa.github.io/Traffic-management/) | React · FastAPI · PostGIS · OSRM |
+| **[Recovery Copilot](https://github.com/qasimjethwa/Failed-payment-recovery)** | Rule-based failed-payment recovery engine — classifies failures, maps each to a retry strategy. Razorpay AI Buildathon 2026 | Python |
+| **[RoverSense](https://github.com/qasimjethwa/roversense)** | ML anomaly detection for rover telemetry — Isolation Forest, 64 trees, precision 0.986 | Python · scikit-learn |
+| **[First AI Agent](https://github.com/qasimjethwa/first-ai-agent)** | Zero-code agent studio — 10 working tools, 100% browser-side | JavaScript |
+| **[SpamShield](https://github.com/qasimjethwa/spamshield)** | Explainable SMS spam classifier, calibrated, runs fully in the browser | Python · JavaScript |
+| **[MandiLens](https://github.com/qasimjethwa/mandilens)** | Crop price forecasting for Indian farmers — walk-forward backtest, ensemble models | Java |
 
----
-[![](https://komarev.com/ghpvc/?username=qasimjethwa&icon=6&color=0)](https://visitcount.itsvg.in)
+![connect](assets/connect.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasimjethwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qasimjethwa) [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qasimjethwa9783@gmail.com) [![Kemono.in](https://img.shields.io/badge/Kemono.in-0A0A0A?style=for-the-badge&logo=shopify&logoColor=white)](https://kemono.in) [![Nexora](https://img.shields.io/badge/Nexora-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://nexora-nu-taupe.vercel.app/)
